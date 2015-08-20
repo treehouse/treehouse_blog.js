@@ -1,0 +1,52 @@
+{
+  "name": "treehouse_blog",
+  "version": "1.0.0",
+  "description": "An npm Package for Node.js to get the metadata about the latest articles on the Treehouse blog.",
+  "main": "blog.js",
+  "dependencies": {
+    "libxmljs": "^0.14.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/treehouse/treehouse_blog.js.git"
+  },
+  "keywords": [
+    "treehouse",
+    "blog",
+    "rss",
+    "json"
+  ],
+  "author": {
+    "name": "Andrew Chalkley"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/treehouse/treehouse_blog.js/issues"
+  },
+  "homepage": "https://github.com/treehouse/treehouse_blog.js#readme",
+  "_id": "treehouse_blog@1.0.0",
+  "_shasum": "a860a7b84a998a6a1db9059f5476f5c77235b39c",
+  "_from": "treehouse_blog@*",
+  "_npmVersion": "2.11.2",
+  "_nodeVersion": "0.12.5",
+  "_npmUser": {
+    "name": "chalkers",
+    "email": "andrew@chalkley.org"
+  },
+  "dist": {
+    "shasum": "a860a7b84a998a6a1db9059f5476f5c77235b39c",
+    "tarball": "http://registry.npmjs.org/treehouse_blog/-/treehouse_blog-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "chalkers",
+      "email": "andrew@chalkley.org"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/treehouse_blog/-/treehouse_blog-1.0.0.tgz"
+}
