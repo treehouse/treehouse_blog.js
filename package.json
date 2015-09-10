@@ -1,6 +1,6 @@
 {
   "name": "treehouse_blog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm Package for Node.js to get the metadata about the latest articles on the Treehouse blog.",
   "main": "blog.js",
   "dependencies": {
