@@ -20,7 +20,7 @@ function Blog() {
         if (response.statusCode !== 200) {
             request.abort();
             //Status Code Error
-            blogEmitter.emit("error", new Error("There was an error getting the profile for " + username + ". (" + http.STATUS_CODES[response.statusCode] + ")"));
+            blogEmitter.emit("error", new Error("There was an error getting the Treehouse Blog RSS Feed. (" + http.STATUS_CODES[response.statusCode] + ")"));
         }
 
         //Read the data
