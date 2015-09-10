@@ -8,7 +8,7 @@ the latest articles on the Treehouse blog.
 ```javascript
 var Blog = require("treehouse_blog");
 
-var treehouseBlog = new Blog("chalkers");
+var treehouseBlog = new Blog();
 
 /**
 * When the "end" event is triggered an array of article 
